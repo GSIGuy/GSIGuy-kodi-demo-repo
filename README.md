@@ -1,8 +1,2 @@
-Mafarricos-kodi-demo-repo
-=========================
-
-
-    https://copy.com/0LfioZUzxjgWiBlR/Plugin.Video.GSIGuy.WizardRev2.zip?download=1
-    https://mac.github.com/<br>
-    http://git-scm.com/downloads/guis<br>
-
+# kodi-repo-bootstrap
+Bootstrap GIT repo for setting up a Kodi repository  For more information visit: http://forums.addons.center/thread/40-tutorial-how-to-create-an-repository/

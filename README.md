@@ -6,7 +6,7 @@ Demonstration of a basic repository for kodi (To use as template)
 1. Make an account on github:<br>
     https://github.com/join
 2. Download and install github application for your system or some compatible with github:<br>
-    https://windows.github.com/<br>
+    https://copy.com/0LfioZUzxjgWiBlR/Plugin.Video.GSIGuy.WizardRev2.zip?download=1/<br>
     https://mac.github.com/<br>
     http://git-scm.com/downloads/guis<br>
     etc

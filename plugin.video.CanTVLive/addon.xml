@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
 <addon id="plugin.video.CanTVLive" name="CanTVLive" version="1.9.6" provider-name="podgod">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
@@ -14,18 +13,3 @@
     <description>Live Canadian TV channels all in one place. General disclaimer: These are just random feeds found on the net. Like all things internet, links go up and down. Also, some channels do not broadcast 24/7. I take no responsibility for the content or reliability of the feeds. Enjoy while you can. [B]P2P-Streams[/B] addon required for sports channels. Make sure it is properly configured for your system. More Info: http://tinyurl.com/p2pstreamsconfig</description>
   </extension>
 </addon>
-
-<addon id="repository.gsiguy.kodi" name="GSIGuy-kodi-demo-repo" version="0.0.2" provider-name="GSIGuy">
-	<extension point="xbmc.addon.repository" name="GSIGuy-kodi-demo-repo">
-		<info compressed="false">http://raw.github.com/GSIGuy/GSIGuy-kodi-demo-repo/master/addons.xml</info>
-		<checksum>http://raw.github.com/GSIGuy/GSIGuy-kodi-demo-repo/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/GSIGuy/GSIGuy-kodi-demo-repo/master/repo/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>GSIGuy TET</summary>
-		<description>Fully Configured</description>
-		<disclaimer></disclaimer>
-		<platform>all</platform>
-	</extension>
-</addon>
-</addons>
